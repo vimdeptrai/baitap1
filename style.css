@@ -1,0 +1,32 @@
+.form{
+    text-align: center;
+    border: 2px solid black;
+margin-left: 35%;
+margin-right:35%;
+}
+h1{
+    font-size: larger;
+}
+h2{
+    font-size: 20px;
+}
+.date{
+    margin-left: 50%;
+}
+.name{
+    margin-left: 63%;
+}
+.content{
+    padding: 20px;
+    text-align: left;
+    margin-left: 5%;
+}
+.p3cham{
+    margin-left: 67%;
+
+}
+hr{
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
