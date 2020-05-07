@@ -1,32 +1,37 @@
-.form{
+.form {
     text-align: center;
     border: 2px solid black;
-margin-left: 35%;
-margin-right:35%;
+    margin-left: 35%;
+    margin-right: 35%;
 }
-h1{
+
+h1 {
     font-size: larger;
 }
-h2{
+
+h2 {
     font-size: 20px;
 }
-.date{
+
+.date {
     margin-left: 50%;
 }
-.name{
+
+.name {
     margin-left: 63%;
 }
-.content{
+
+.content {
     padding: 20px;
     text-align: left;
     margin-left: 5%;
 }
-.p3cham{
-    margin-left: 67%;
 
+.p3cham {
+    margin-left: 67%;
 }
-hr{
+
+hr {
     margin-left: 20%;
     margin-right: 20%;
-
 }
